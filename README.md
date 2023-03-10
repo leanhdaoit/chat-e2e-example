@@ -2,6 +2,7 @@
 
 ## Installation
 
+```bash
 $ npm install
 ```
 
